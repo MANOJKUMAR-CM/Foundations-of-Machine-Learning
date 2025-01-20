@@ -1,6 +1,6 @@
 # Foundations of ML
 
-Welcome to the **Foundations of ML** repo! This is where I’ve tackled some cool ML assignments from my course. Dive in and explore the solutions, experiments, and insights.
+The **Foundations of ML** repo! This is where I’ve tackled some cool ML assignments from my course. Dive in and explore the solutions, experiments, and insights.
 
 ## What's Inside?
 
