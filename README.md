@@ -28,6 +28,14 @@ The **Foundations of ML** repo! This is where I’ve tackled some cool ML assign
   - **Lloyd’s Algorithm**: Ran K-means with multiple initializations and plotted error reduction over iterations.
   - **Voronoi Diagrams**: Visualized clusters for different K values using Voronoi regions, showing how data points were grouped.
   - **Clustering Effectiveness**: Critically analyzed whether Lloyd’s algorithm was the best choice and explored alternative methods for clustering.
+ 
+## 📧 Contact
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)
 
 Happy coding! 🚀
 
